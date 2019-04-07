@@ -8,7 +8,7 @@ function Navbar(props) {
       <div>
         <ul className="navbar-nav">
           <li className="nav-item">
-            <h2><a href="/">Clicky Game {props.restart}</a></h2>
+            <h2><a href="/Clicky-Game/">Clicky Game {props.restart}</a></h2>
           </li>
           <li className="nav-item">
             <h2>WINTER IS COMING</h2>
