@@ -1,14 +1,14 @@
 {
-  "main.css": "/Clicky-Game/static/css/main.7acaffe4.chunk.css",
-  "main.js": "/Clicky-Game/static/js/main.8126a1c2.chunk.js",
-  "main.js.map": "/Clicky-Game/static/js/main.8126a1c2.chunk.js.map",
-  "runtime~main.js": "/Clicky-Game/static/js/runtime~main.012bace8.js",
-  "runtime~main.js.map": "/Clicky-Game/static/js/runtime~main.012bace8.js.map",
-  "static/js/2.884c28c3.chunk.js": "/Clicky-Game/static/js/2.884c28c3.chunk.js",
-  "static/js/2.884c28c3.chunk.js.map": "/Clicky-Game/static/js/2.884c28c3.chunk.js.map",
-  "index.html": "/Clicky-Game/index.html",
-  "precache-manifest.516ba12148a73b47b852e3ad06fec173.js": "/Clicky-Game/precache-manifest.516ba12148a73b47b852e3ad06fec173.js",
-  "service-worker.js": "/Clicky-Game/service-worker.js",
-  "static/css/main.7acaffe4.chunk.css.map": "/Clicky-Game/static/css/main.7acaffe4.chunk.css.map",
-  "static/media/style.css": "/Clicky-Game/static/media/house-crests.e804f652.jpg"
+  "main.css": "/Clicky-Game/public/index.html/static/css/main.bf3d8631.chunk.css",
+  "main.js": "/Clicky-Game/public/index.html/static/js/main.8126a1c2.chunk.js",
+  "main.js.map": "/Clicky-Game/public/index.html/static/js/main.8126a1c2.chunk.js.map",
+  "runtime~main.js": "/Clicky-Game/public/index.html/static/js/runtime~main.d2f4e3ec.js",
+  "runtime~main.js.map": "/Clicky-Game/public/index.html/static/js/runtime~main.d2f4e3ec.js.map",
+  "static/js/2.884c28c3.chunk.js": "/Clicky-Game/public/index.html/static/js/2.884c28c3.chunk.js",
+  "static/js/2.884c28c3.chunk.js.map": "/Clicky-Game/public/index.html/static/js/2.884c28c3.chunk.js.map",
+  "index.html": "/Clicky-Game/public/index.html/index.html",
+  "precache-manifest.7652cf3c918b23dc6f04644f6abbd369.js": "/Clicky-Game/public/index.html/precache-manifest.7652cf3c918b23dc6f04644f6abbd369.js",
+  "service-worker.js": "/Clicky-Game/public/index.html/service-worker.js",
+  "static/css/main.bf3d8631.chunk.css.map": "/Clicky-Game/public/index.html/static/css/main.bf3d8631.chunk.css.map",
+  "static/media/style.css": "/Clicky-Game/public/index.html/static/media/house-crests.e804f652.jpg"
 }
