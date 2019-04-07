@@ -1,5 +1,12 @@
 # Clicky-Game
 
+This application was created using React.  The application renders different images to the screen that listen for click events.  The application keeps track of the user's score and incrementes when clicking an image for the first time. The user's score will reset to 0 if they click the same image more than once.  Every time an image is clicked, the images shuffle themselves in a random order.  If the user's score is reset after an incorrect guess, the game restarts.
+
+To create this app, make sure you have react installed globally.  From your terminal, change directories to where you wish to create your React App.  Then run the command `create-react-app` followed by the name of your app. (example: `create-react-app test-name`)
+
+Then begin to build the individual components of the app in the `src` folder that will be created.  Building a static, nonfunctional version first is recommended. Then create the necessary click, increment, shuffle, and reset functions.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
